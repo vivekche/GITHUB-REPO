@@ -4,3 +4,5 @@ this is the third line.
 this is the fourth line. 
 this is the fifth line.
 This line added from feature-1.
+this is the sixth line.
+
